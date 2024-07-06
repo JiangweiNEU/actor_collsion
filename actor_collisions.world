@@ -13,7 +13,7 @@
     <uri>model://sun</uri>
   </include>
   <actor name="actor">
-    <plugin name="actor_collisions_plugin" filename="/home/wei/Downloads/actor_collisions/build/libActorCollisionsPlugin.so">
+    <plugin name="actor_collisions_plugin" filename="./libActorCollisionsPlugin.so">
       <scaling collision="LHipJoint_LeftUpLeg_collision" scale="
         0.01
         0.001
